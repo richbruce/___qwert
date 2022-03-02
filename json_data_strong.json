@@ -1,0 +1,169 @@
+{
+  "trades": [
+    {
+      "id": "6ca44a1c-710d-41a7-a40c-15a07966189e",
+      "date": "2020-01-02",
+      "sym": "MU",
+      "side": "buy",
+      "result": "loss",
+      "strategy": "buy green",
+      "tags": ["nervous", "rushed"],
+      "risk_unit": 0.23,
+      "ru_returns": -1.0,
+      "gross_returns": -375.0,
+      "avg_buy": 55.15,
+      "avg_sell": 54.92,
+      "move_percent": -0.42,
+      "move_points": -0.23,
+      "stop_loss": 54.92,
+      "stop_target": 55.84,
+      "buy_list": [{ "time": "09:35:00", "price": 55.15, "shares": 1630.43 }],
+      "sell_list": [{ "time": "10:15:00", "price": 54.92, "shares": 1630.43 }],
+      "max_moves": {
+        "mfe": {
+          "percent": 0.01,
+          "point": 0.34,
+          "risk_unit": 1.48,
+          "diff": ""
+        },
+        "mae": { "percent": 0.0, "point": 0.23, "risk_unit": 1.0, "diff": "" }
+      },
+      "charts": [
+        {
+          "imgUrl": "https://qwcdasrttemc.s3.us-west-1.amazonaws.com/charts/strong/MU_2020-01-02_5m.png"
+        },
+        {
+          "imgUrl": "https://qwcdasrttemc.s3.us-west-1.amazonaws.com/charts/strong/MU_2020-01-02_1m.png"
+        }
+      ]
+    },
+    {
+      "id": "0f0a316a-8c0c-4ee8-93d3-7d9f439b278c",
+      "date": "2020-01-03",
+      "sym": "PDD",
+      "side": "buy",
+      "result": "win",
+      "strategy": "buy green",
+      "tags": ["confident", "confident"],
+      "risk_unit": 0.27,
+      "ru_returns": 3.0,
+      "gross_returns": 1119.36,
+      "avg_buy": 40.39,
+      "avg_sell": 41.2,
+      "move_percent": 2.01,
+      "move_points": 0.81,
+      "stop_loss": 40.12,
+      "stop_target": 41.2,
+      "buy_list": [{ "time": "09:35:00", "price": 40.39, "shares": 1381.93 }],
+      "sell_list": [{ "time": "09:46:00", "price": 41.2, "shares": 1381.93 }],
+      "max_moves": {
+        "mfe": { "percent": 0.02, "point": 0.81, "risk_unit": 3.0, "diff": "" },
+        "mae": { "percent": 0.0, "point": 0.03, "risk_unit": 0.11, "diff": "" }
+      },
+      "charts": [
+        {
+          "imgUrl": "https://qwcdasrttemc.s3.us-west-1.amazonaws.com/charts/strong/PDD_2020-01-03_5m.png"
+        },
+        {
+          "imgUrl": "https://qwcdasrttemc.s3.us-west-1.amazonaws.com/charts/strong/PDD_2020-01-03_1m.png"
+        }
+      ]
+    },
+    {
+      "id": "359f9314-0bc5-4a57-a689-f65af44b0037",
+      "date": "2020-01-06",
+      "sym": "XLNX",
+      "side": "buy",
+      "result": "loss",
+      "strategy": "buy green",
+      "tags": ["rushed", "rushed"],
+      "risk_unit": 0.25,
+      "ru_returns": -1.0,
+      "gross_returns": -378.72,
+      "avg_buy": 98.04,
+      "avg_sell": 97.79,
+      "move_percent": -0.25,
+      "move_points": -0.25,
+      "stop_loss": 97.79,
+      "stop_target": 98.79,
+      "buy_list": [{ "time": "09:35:00", "price": 98.04, "shares": 1514.88 }],
+      "sell_list": [{ "time": "09:35:00", "price": 97.79, "shares": 1514.88 }],
+      "max_moves": {
+        "mfe": { "percent": 0.0, "point": 0.03, "risk_unit": 0.12, "diff": "" },
+        "mae": { "percent": 0.0, "point": 0.25, "risk_unit": 1.0, "diff": "" }
+      },
+      "charts": [
+        {
+          "imgUrl": "https://qwcdasrttemc.s3.us-west-1.amazonaws.com/charts/strong/XLNX_2020-01-06_5m.png"
+        },
+        {
+          "imgUrl": "https://qwcdasrttemc.s3.us-west-1.amazonaws.com/charts/strong/XLNX_2020-01-06_1m.png"
+        }
+      ]
+    },
+    {
+      "id": "edee7d7d-b523-4536-8f9d-7636ffb1cae9",
+      "date": "2020-01-07",
+      "sym": "XLNX",
+      "side": "buy",
+      "result": "loss",
+      "strategy": "buy green",
+      "tags": ["distracted", "rushed"],
+      "risk_unit": 0.23,
+      "ru_returns": -1.0,
+      "gross_returns": -376.83,
+      "avg_buy": 98.34,
+      "avg_sell": 98.11,
+      "move_percent": -0.23,
+      "move_points": -0.23,
+      "stop_loss": 98.11,
+      "stop_target": 99.03,
+      "buy_list": [{ "time": "09:35:00", "price": 98.34, "shares": 1638.39 }],
+      "sell_list": [{ "time": "09:38:00", "price": 98.11, "shares": 1638.39 }],
+      "max_moves": {
+        "mfe": { "percent": 0.0, "point": 0.13, "risk_unit": 0.57, "diff": "" },
+        "mae": { "percent": 0.0, "point": 0.23, "risk_unit": 1.0, "diff": "" }
+      },
+      "charts": [
+        {
+          "imgUrl": "https://qwcdasrttemc.s3.us-west-1.amazonaws.com/charts/strong/XLNX_2020-01-07_5m.png"
+        },
+        {
+          "imgUrl": "https://qwcdasrttemc.s3.us-west-1.amazonaws.com/charts/strong/XLNX_2020-01-07_1m.png"
+        }
+      ]
+    },
+    {
+      "id": "42ff47f7-1e70-4a29-99b6-c0729e38238e",
+      "date": "2020-01-07",
+      "sym": "MU",
+      "side": "buy",
+      "result": "loss",
+      "strategy": "buy green",
+      "tags": ["rushed", "nervous"],
+      "risk_unit": 0.29,
+      "ru_returns": -1.0,
+      "gross_returns": -376.83,
+      "avg_buy": 56.35,
+      "avg_sell": 56.06,
+      "move_percent": -0.51,
+      "move_points": -0.29,
+      "stop_loss": 56.06,
+      "stop_target": 57.22,
+      "buy_list": [{ "time": "09:35:00", "price": 56.35, "shares": 1299.41 }],
+      "sell_list": [{ "time": "09:38:00", "price": 56.06, "shares": 1299.41 }],
+      "max_moves": {
+        "mfe": { "percent": 0.0, "point": 0.13, "risk_unit": 0.45, "diff": "" },
+        "mae": { "percent": 0.01, "point": 0.29, "risk_unit": 1.0, "diff": "" }
+      },
+      "charts": [
+        {
+          "imgUrl": "https://qwcdasrttemc.s3.us-west-1.amazonaws.com/charts/strong/MU_2020-01-07_5m.png"
+        },
+        {
+          "imgUrl": "https://qwcdasrttemc.s3.us-west-1.amazonaws.com/charts/strong/MU_2020-01-07_1m.png"
+        }
+      ]
+    }
+  ]
+}
