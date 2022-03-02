@@ -7,7 +7,7 @@
   "returns": {
 	"real": {
 		"cash_returns": 1000,
-		"ru_returns": 4,
+		"ru_returns": 666,
 		"ru_size": 250
 	},
 	"possible": {
