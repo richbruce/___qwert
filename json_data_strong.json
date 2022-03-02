@@ -1,9 +1,21 @@
-{
+{ 
   "trade_stats": {
     "labels": ["Wins", "Losses", "Scratch"],
     "data": [2200, 5200, 1300]
   },
 
+  "returns": {
+	"real": {
+		"cash_returns": 1000,
+		"ru_returns": 4,
+		"ru_size": 250
+	},
+	"possible": {
+		"cash_returns": 2000,
+		"ru_returns": 8,
+		"ru_size": 200
+	}
+},
   "trades": [
     {
       "id": "2477281d-0d6b-43c1-a55f-d9a530b1a6eb",
