@@ -1,4 +1,9 @@
 {
+  "trade_stats":{
+	"labels":["Wins","Losses","Scratch"],
+	"data":[2200,5200,1300]
+},
+  
   "trades": [
     {
       "id": "2477281d-0d6b-43c1-a55f-d9a530b1a6eb",
