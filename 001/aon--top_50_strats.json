@@ -1,0 +1,647 @@
+{
+  "sig_bar_close--sig_bar_range--1.25--2.5": {
+    "returns": 173.0,
+    "syms": [
+      "AMD",
+      "PDD",
+      "MU",
+      "AEP",
+      "NVDA",
+      "FISV",
+      "DLTR",
+      "MTCH",
+      "EBAY",
+      "BIDU"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.25--2.25": {
+    "returns": 172.0,
+    "syms": [
+      "AMD",
+      "PDD",
+      "AEP",
+      "MU",
+      "MRNA",
+      "NVDA",
+      "FISV",
+      "MTCH",
+      "BIDU",
+      "DLTR"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--3.75": {
+    "returns": 168.0,
+    "syms": [
+      "PDD",
+      "AEP",
+      "XLNX",
+      "AMD",
+      "INCY",
+      "WBA",
+      "MRVL",
+      "FISV",
+      "MU",
+      "MRNA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--3.5": {
+    "returns": 164.5,
+    "syms": [
+      "PDD",
+      "AEP",
+      "AMD",
+      "XLNX",
+      "MRVL",
+      "FISV",
+      "INCY",
+      "MU",
+      "WBA",
+      "CDNS"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--3.25": {
+    "returns": 157.75,
+    "syms": [
+      "PDD",
+      "AEP",
+      "AMD",
+      "MU",
+      "MRVL",
+      "XLNX",
+      "WBA",
+      "FISV",
+      "INCY",
+      "ROST"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.25--2.75": {
+    "returns": 155.75,
+    "syms": [
+      "AMD",
+      "PDD",
+      "AEP",
+      "NVDA",
+      "MTCH",
+      "DLTR",
+      "FISV",
+      "AAPL",
+      "BIDU",
+      "CDNS"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.25--3.25": {
+    "returns": 153.75,
+    "syms": [
+      "AMD",
+      "PDD",
+      "AAPL",
+      "AEP",
+      "FISV",
+      "NVDA",
+      "MTCH",
+      "MRNA",
+      "BIDU",
+      "XEL"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.25--3.0": {
+    "returns": 152.0,
+    "syms": [
+      "AMD",
+      "PDD",
+      "AEP",
+      "AAPL",
+      "NVDA",
+      "FISV",
+      "MTCH",
+      "CDNS",
+      "BIDU",
+      "XLNX"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--2.75": {
+    "returns": 150.25,
+    "syms": [
+      "PDD",
+      "AEP",
+      "AMD",
+      "FISV",
+      "MTCH",
+      "MAR",
+      "MCHP",
+      "EXC",
+      "MRNA",
+      "XLNX"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--3.0": {
+    "returns": 150.0,
+    "syms": [
+      "PDD",
+      "AEP",
+      "XLNX",
+      "FISV",
+      "AMD",
+      "MRVL",
+      "WBA",
+      "MU",
+      "INCY",
+      "CDNS"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--4.75": {
+    "returns": 149.75,
+    "syms": [
+      "PDD",
+      "AEP",
+      "XLNX",
+      "INCY",
+      "CDNS",
+      "MTCH",
+      "WBA",
+      "CHKP",
+      "SBUX",
+      "FISV"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--4.25": {
+    "returns": 149.25,
+    "syms": [
+      "PDD",
+      "AEP",
+      "XLNX",
+      "INCY",
+      "FISV",
+      "MRVL",
+      "MTCH",
+      "AMD",
+      "CHKP",
+      "CDNS"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--3.0": {
+    "returns": 148.0,
+    "syms": [
+      "PDD",
+      "AEP",
+      "MAR",
+      "FISV",
+      "AMD",
+      "MTCH",
+      "XLNX",
+      "EXC",
+      "MU",
+      "MRVL"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.25--2.0": {
+    "returns": 148.0,
+    "syms": [
+      "AMD",
+      "PDD",
+      "MU",
+      "AEP",
+      "FISV",
+      "EBAY",
+      "CTSH",
+      "MTCH",
+      "NVDA",
+      "DOCU"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--4.5": {
+    "returns": 146.5,
+    "syms": [
+      "PDD",
+      "AEP",
+      "XLNX",
+      "MRVL",
+      "INCY",
+      "MTCH",
+      "CDNS",
+      "WBA",
+      "CHKP",
+      "AMD"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--5.25": {
+    "returns": 146.25,
+    "syms": [
+      "PDD",
+      "XLNX",
+      "AEP",
+      "CDNS",
+      "WBA",
+      "INCY",
+      "AMD",
+      "FISV",
+      "EXC",
+      "MTCH"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--4.0": {
+    "returns": 146.0,
+    "syms": [
+      "PDD",
+      "AEP",
+      "XLNX",
+      "INCY",
+      "AMD",
+      "MU",
+      "FISV",
+      "MRVL",
+      "MTCH",
+      "EBAY"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.5--1.75": {
+    "returns": 143.75,
+    "syms": [
+      "AMD",
+      "PDD",
+      "AEP",
+      "FISV",
+      "EBAY",
+      "CTSH",
+      "XLNX",
+      "DOCU",
+      "FAST",
+      "BIDU"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--2.75": {
+    "returns": 142.5,
+    "syms": [
+      "PDD",
+      "AEP",
+      "XLNX",
+      "MTCH",
+      "WBA",
+      "FISV",
+      "AMD",
+      "MU",
+      "INCY",
+      "MRVL"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--2.5": {
+    "returns": 142.0,
+    "syms": [
+      "PDD",
+      "AEP",
+      "AMD",
+      "FISV",
+      "MU",
+      "EXC",
+      "MTCH",
+      "MRVL",
+      "MAR",
+      "MCHP"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--3.25": {
+    "returns": 139.25,
+    "syms": [
+      "PDD",
+      "AEP",
+      "MAR",
+      "MTCH",
+      "AMD",
+      "EXC",
+      "XLNX",
+      "MRVL",
+      "FISV",
+      "NVDA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--5.0": {
+    "returns": 136.0,
+    "syms": [
+      "PDD",
+      "XLNX",
+      "AEP",
+      "CDNS",
+      "WBA",
+      "INCY",
+      "FISV",
+      "MU",
+      "AMD",
+      "MRVL"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.25--1.75": {
+    "returns": 132.25,
+    "syms": [
+      "PDD",
+      "AMD",
+      "MU",
+      "FISV",
+      "AEP",
+      "DOCU",
+      "EXC",
+      "MTCH",
+      "EBAY",
+      "EA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--3.5": {
+    "returns": 130.0,
+    "syms": [
+      "PDD",
+      "AEP",
+      "MTCH",
+      "XLNX",
+      "FISV",
+      "EXC",
+      "AMD",
+      "BIDU",
+      "TXN",
+      "CHKP"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--2.0--1.5": {
+    "returns": 129.0,
+    "syms": [
+      "PDD",
+      "AMD",
+      "AEP",
+      "XEL",
+      "FISV",
+      "XLNX",
+      "TXN",
+      "AAPL",
+      "DLTR",
+      "OKTA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--2.0--1.25": {
+    "returns": 128.75,
+    "syms": [
+      "AMD",
+      "PDD",
+      "AEP",
+      "XEL",
+      "FISV",
+      "XLNX",
+      "CTSH",
+      "EA",
+      "TXN",
+      "MTCH"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--5.5": {
+    "returns": 128.5,
+    "syms": [
+      "PDD",
+      "XLNX",
+      "AEP",
+      "WBA",
+      "CDNS",
+      "AMD",
+      "INCY",
+      "MTCH",
+      "EXC",
+      "SBUX"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--2.0": {
+    "returns": 128.0,
+    "syms": [
+      "PDD",
+      "AEP",
+      "AMD",
+      "PAYX",
+      "ROST",
+      "CDNS",
+      "CHKP",
+      "MTCH",
+      "FISV",
+      "EXC"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--4.0": {
+    "returns": 127.0,
+    "syms": [
+      "PDD",
+      "AEP",
+      "MTCH",
+      "FISV",
+      "EXC",
+      "XLNX",
+      "CDNS",
+      "MCHP",
+      "BIDU",
+      "TXN"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--2.0": {
+    "returns": 127.0,
+    "syms": [
+      "PDD",
+      "AEP",
+      "AMD",
+      "MTCH",
+      "EXC",
+      "FISV",
+      "PAYX",
+      "MRVL",
+      "MAR",
+      "MU"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.5--2.0": {
+    "returns": 127.0,
+    "syms": [
+      "AMD",
+      "PDD",
+      "AEP",
+      "FISV",
+      "XLNX",
+      "NVDA",
+      "MU",
+      "EBAY",
+      "MAR",
+      "MXIM"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.5--1.5": {
+    "returns": 126.5,
+    "syms": [
+      "AMD",
+      "PDD",
+      "AEP",
+      "EBAY",
+      "FISV",
+      "DOCU",
+      "CPRT",
+      "CTSH",
+      "MXIM",
+      "FAST"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.5--2.25": {
+    "returns": 125.0,
+    "syms": [
+      "AMD",
+      "AEP",
+      "PDD",
+      "XLNX",
+      "FISV",
+      "NVDA",
+      "EBAY",
+      "AAPL",
+      "BIDU",
+      "OKTA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--2.25": {
+    "returns": 124.5,
+    "syms": [
+      "PDD",
+      "AEP",
+      "AMD",
+      "FISV",
+      "EXC",
+      "MTCH",
+      "MU",
+      "MRVL",
+      "TSLA",
+      "BIDU"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--2.25": {
+    "returns": 124.25,
+    "syms": [
+      "PDD",
+      "AEP",
+      "PAYX",
+      "ROST",
+      "CHKP",
+      "AMD",
+      "MTCH",
+      "CDNS",
+      "MU",
+      "MRVL"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.5--2.5": {
+    "returns": 123.5,
+    "syms": [
+      "AMD",
+      "PDD",
+      "AEP",
+      "XLNX",
+      "FISV",
+      "AAPL",
+      "NVDA",
+      "BIDU",
+      "MXIM",
+      "OKTA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.25--4.0": {
+    "returns": 122.0,
+    "syms": [
+      "AMD",
+      "AAPL",
+      "AEP",
+      "FISV",
+      "NVDA",
+      "BIDU",
+      "TXN",
+      "FOX",
+      "MTCH",
+      "CDNS"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--3.75": {
+    "returns": 119.25,
+    "syms": [
+      "PDD",
+      "AEP",
+      "MTCH",
+      "XLNX",
+      "FISV",
+      "EXC",
+      "CDNS",
+      "BIDU",
+      "MRVL",
+      "AMD"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--2.5": {
+    "returns": 117.0,
+    "syms": [
+      "PDD",
+      "AEP",
+      "MTCH",
+      "XLNX",
+      "WBA",
+      "FISV",
+      "MRVL",
+      "CHKP",
+      "CDNS",
+      "MU"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.75--1.5": {
+    "returns": 117.0,
+    "syms": [
+      "AMD",
+      "PDD",
+      "AEP",
+      "FISV",
+      "XLNX",
+      "XEL",
+      "CTSH",
+      "TXN",
+      "OKTA",
+      "EBAY"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--1.75": {
+    "returns": 116.75,
+    "syms": [
+      "PDD",
+      "AEP",
+      "PAYX",
+      "AMD",
+      "MTCH",
+      "EXC",
+      "FISV",
+      "CHKP",
+      "MRVL",
+      "MAR"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--5.75": {
+    "returns": 114.0,
+    "syms": [
+      "PDD",
+      "AEP",
+      "XLNX",
+      "CDNS",
+      "WBA",
+      "SBUX",
+      "EXC",
+      "MTCH",
+      "XEL",
+      "PAYX"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--1.75": {
+    "returns": 113.25,
+    "syms": [
+      "PDD",
+      "AEP",
+      "CDNS",
+      "ROST",
+      "PAYX",
+      "AMD",
+      "CHKP",
+      "MTCH",
+      "EXC",
+      "MU"
+    ]
+  }
+}
