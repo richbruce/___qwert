@@ -1,6 +1,6 @@
 from pathlib import Path
 
-syms = ["AMD", "QCOM", "ATVI", "DOCU", "MAR", "NTES", "MRNA", "CTSH", "INCY", "CDNS"]
+syms = ["QCOM", "MRNA", "DLTR", "CDW", "MU", "INCY", "GILD", "AMD", "MAR", "EA"]
 
 strat_params = {
     # # ## mute for first run

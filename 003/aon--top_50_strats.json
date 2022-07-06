@@ -1,542 +1,572 @@
 {
-  "sig_bar_close--sig_bar_range--0.75--5.0": {
-    "returns": 134.0,
-    "syms": [
-      "QCOM",
-      "DOCU",
-      "AMD",
-      "MAR",
-      "MRNA",
-      "NTES",
-      "GILD",
-      "ADI",
-      "PCAR",
-      "MXIM"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.75--4.75": {
-    "returns": 128.75,
-    "syms": [
-      "QCOM",
-      "DOCU",
-      "AMD",
-      "MAR",
-      "MRNA",
-      "GILD",
-      "NTES",
-      "AMAT",
-      "ADI",
-      "DLTR"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.75--5.25": {
-    "returns": 126.0,
-    "syms": [
-      "DOCU",
-      "QCOM",
-      "AMD",
-      "MAR",
-      "MRNA",
-      "NTES",
-      "ADI",
-      "GILD",
-      "PCAR",
-      "MXIM"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.75--4.5": {
-    "returns": 123.0,
-    "syms": [
-      "QCOM",
-      "AMD",
-      "DOCU",
-      "MAR",
-      "MRNA",
-      "NTES",
-      "GILD",
-      "AMAT",
-      "ADI",
-      "DLTR"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.75--4.25": {
-    "returns": 120.25,
-    "syms": [
-      "QCOM",
-      "AMD",
-      "DOCU",
-      "MAR",
-      "DLTR",
-      "INCY",
-      "GILD",
-      "NTES",
-      "MRNA",
-      "AMAT"
-    ]
-  },
   "sig_bar_close--sig_bar_range--0.75--4.0": {
-    "returns": 118.0,
+    "returns": 157.0,
     "syms": [
       "QCOM",
-      "AMD",
-      "DOCU",
-      "MRNA",
-      "MAR",
-      "DLTR",
       "INCY",
-      "GILD",
-      "NTES",
-      "AMAT"
+      "MU",
+      "MRNA",
+      "AMD",
+      "CDW",
+      "DLTR",
+      "FISV",
+      "EA",
+      "DOCU"
     ]
   },
   "sig_bar_close--sig_bar_range--0.75--3.75": {
-    "returns": 114.75,
+    "returns": 149.5,
     "syms": [
       "QCOM",
-      "DOCU",
-      "AMD",
       "MRNA",
-      "MAR",
-      "ATVI",
       "DLTR",
-      "PCAR",
+      "MU",
       "INCY",
-      "NTES"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--1.0--3.75": {
-    "returns": 107.25,
-    "syms": [
-      "AMD",
-      "QCOM",
-      "DOCU",
-      "NTES",
-      "MAR",
-      "CTSH",
-      "MRNA",
-      "CDNS",
-      "ADI",
-      "ATVI"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.75--5.5": {
-    "returns": 107.0,
-    "syms": [
-      "QCOM",
-      "MAR",
-      "DOCU",
-      "AMD",
-      "MRNA",
-      "ADI",
-      "NTES",
-      "GILD",
       "CDW",
-      "TSLA"
+      "AMD",
+      "FISV",
+      "EA",
+      "MXIM"
     ]
   },
-  "sig_bar_close--sig_bar_range--0.75--3.5": {
-    "returns": 106.0,
+  "sig_bar_close--sig_bar_range--0.75--4.25": {
+    "returns": 147.25,
     "syms": [
       "QCOM",
-      "DOCU",
-      "AMD",
-      "MRNA",
-      "GILD",
-      "ATVI",
-      "MAR",
+      "INCY",
+      "MU",
       "DLTR",
-      "PCAR",
-      "INCY"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.75--5.75": {
-    "returns": 104.25,
-    "syms": [
-      "QCOM",
-      "MAR",
-      "DOCU",
-      "ADI",
-      "AMD",
-      "GILD",
-      "NTES",
-      "ATVI",
-      "CDW",
-      "TSLA"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.75--3.0": {
-    "returns": 100.0,
-    "syms": [
-      "QCOM",
-      "INCY",
-      "DOCU",
-      "ATVI",
-      "AMD",
-      "PDD",
-      "MRNA",
-      "GILD",
-      "AMAT",
-      "PCAR"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--1.0--3.0": {
-    "returns": 98.0,
-    "syms": [
-      "AMD",
-      "QCOM",
-      "ATVI",
-      "DOCU",
-      "MAR",
-      "NTES",
-      "MRNA",
-      "CTSH",
-      "INCY",
-      "CDNS"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.75--3.25": {
-    "returns": 96.75,
-    "syms": [
-      "QCOM",
-      "DOCU",
-      "AMD",
-      "ATVI",
-      "MRNA",
-      "GILD",
-      "MAR",
-      "DLTR",
-      "PCAR",
-      "INCY"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--1.0--2.5": {
-    "returns": 94.0,
-    "syms": [
-      "QCOM",
-      "ATVI",
       "MRNA",
       "AMD",
-      "NTES",
-      "DOCU",
-      "FAST",
-      "MAR",
-      "TSLA",
-      "CTSH"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.5--7.25": {
-    "returns": 93.5,
-    "syms": [
-      "MAR",
-      "QCOM",
-      "GILD",
-      "DOCU",
-      "TSLA",
-      "CDW",
       "EA",
-      "AMAT",
-      "MRNA",
-      "ADI"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.75--2.75": {
-    "returns": 90.25,
-    "syms": [
-      "QCOM",
-      "INCY",
       "DOCU",
-      "MRNA",
-      "ATVI",
-      "AMD",
-      "PDD",
-      "AMAT",
-      "NTES",
-      "GILD"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.5--7.5": {
-    "returns": 89.5,
-    "syms": [
-      "MAR",
-      "QCOM",
-      "DOCU",
-      "CDW",
-      "TSLA",
-      "EA",
-      "AMAT",
-      "MRNA",
-      "NTES",
-      "ATVI"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.5--7.0": {
-    "returns": 89.0,
-    "syms": [
-      "MAR",
-      "QCOM",
-      "GILD",
-      "DOCU",
-      "TSLA",
-      "CDW",
-      "EA",
-      "AMAT",
-      "ADI",
-      "MRNA"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.5--8.0": {
-    "returns": 89.0,
-    "syms": [
-      "MAR",
-      "QCOM",
-      "DOCU",
-      "TSLA",
-      "CDW",
-      "AMAT",
-      "EA",
-      "MRNA",
-      "ATVI",
-      "NTES"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--1.0--2.25": {
-    "returns": 86.75,
-    "syms": [
-      "QCOM",
-      "ATVI",
-      "NTES",
-      "MRNA",
-      "AMD",
-      "INCY",
-      "DOCU",
-      "FAST",
-      "TSLA",
-      "AMAT"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.5--6.0": {
-    "returns": 86.0,
-    "syms": [
-      "MAR",
-      "QCOM",
-      "MRNA",
-      "GILD",
-      "DOCU",
-      "CDW",
-      "TSLA",
-      "EA",
-      "AMAT",
-      "INCY"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.5--8.25": {
-    "returns": 85.5,
-    "syms": [
-      "MAR",
-      "QCOM",
-      "DOCU",
-      "CDW",
-      "TSLA",
-      "EA",
-      "ATVI",
-      "GILD",
-      "ADI",
-      "MRVL"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.5--7.75": {
-    "returns": 85.0,
-    "syms": [
-      "MAR",
-      "QCOM",
-      "DOCU",
-      "TSLA",
-      "CDW",
-      "AMAT",
-      "EA",
-      "MRNA",
-      "ADI",
-      "ATVI"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.5--6.75": {
-    "returns": 84.75,
-    "syms": [
-      "MAR",
-      "QCOM",
-      "GILD",
-      "DOCU",
-      "TSLA",
-      "CDW",
-      "AMAT",
-      "EA",
-      "ADI",
-      "NTES"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.5--5.75": {
-    "returns": 81.0,
-    "syms": [
-      "MAR",
-      "QCOM",
-      "MRNA",
-      "GILD",
-      "DOCU",
-      "CDW",
-      "TSLA",
-      "AMAT",
-      "EA",
-      "INCY"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.5--6.5": {
-    "returns": 80.5,
-    "syms": [
-      "MAR",
-      "QCOM",
-      "GILD",
-      "DOCU",
-      "TSLA",
-      "CDW",
-      "EA",
-      "AMAT",
-      "ATVI",
-      "NTES"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.5--5.5": {
-    "returns": 80.5,
-    "syms": [
-      "MAR",
-      "QCOM",
-      "MRNA",
-      "GILD",
-      "DOCU",
-      "PCAR",
-      "CDW",
-      "TSLA",
-      "EA",
-      "AMAT"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.5--8.5": {
-    "returns": 79.5,
-    "syms": [
-      "MAR",
-      "QCOM",
-      "TSLA",
-      "CDW",
-      "EA",
-      "ADI",
-      "GILD",
-      "ATVI",
-      "DOCU",
-      "PYPL"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.5--6.25": {
-    "returns": 77.25,
-    "syms": [
-      "MAR",
-      "QCOM",
-      "GILD",
-      "DOCU",
-      "CDW",
-      "TSLA",
-      "INCY",
-      "EA",
-      "AMAT",
-      "NTES"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.75--6.0": {
-    "returns": 76.0,
-    "syms": [
-      "DOCU",
-      "ADI",
-      "QCOM",
-      "GILD",
-      "NTES",
-      "MAR",
-      "CDW",
-      "TSLA",
-      "ROST",
-      "DLTR"
-    ]
-  },
-  "sig_bar_close--sig_bar_range--0.75--2.5": {
-    "returns": 75.0,
-    "syms": [
-      "QCOM",
-      "INCY",
-      "DOCU",
-      "MRNA",
-      "ATVI",
-      "AMD",
-      "CDW",
-      "AMAT",
-      "SWKS",
+      "FISV",
       "PDD"
     ]
   },
-  "sig_bar_close--sig_bar_range--0.5--8.75": {
-    "returns": 73.0,
+  "sig_bar_close--sig_bar_range--0.75--3.5": {
+    "returns": 133.0,
     "syms": [
-      "MAR",
       "QCOM",
+      "DLTR",
+      "MU",
+      "MRNA",
+      "INCY",
       "CDW",
-      "TSLA",
-      "EA",
-      "ATVI",
-      "ADI",
-      "GILD",
+      "AMD",
+      "FISV",
+      "JD",
+      "PDD"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--4.5": {
+    "returns": 131.5,
+    "syms": [
+      "QCOM",
+      "MRNA",
+      "AMD",
+      "DLTR",
+      "INCY",
       "DOCU",
-      "PYPL"
+      "MU",
+      "FISV",
+      "MAR",
+      "NTES"
     ]
   },
-  "sig_bar_close--sig_bar_range--0.25--8.75": {
-    "returns": 35.75,
+  "sig_bar_close--sig_bar_range--0.75--5.0": {
+    "returns": 131.0,
     "syms": [
-      "INCY",
-      "DLTR",
-      "SWKS",
-      "TSLA",
-      "NXPI",
-      "XLNX",
-      "SBUX",
-      "CPRT",
+      "QCOM",
+      "MRNA",
+      "DOCU",
+      "MAR",
+      "FISV",
+      "AMD",
       "NTES",
-      "ROST"
+      "DLTR",
+      "EBAY",
+      "CDW"
     ]
   },
-  "sig_bar_close--sig_bar_range--0.25--9.25": {
-    "returns": 29.0,
+  "sig_bar_close--sig_bar_range--0.75--4.75": {
+    "returns": 128.5,
     "syms": [
+      "QCOM",
+      "MRNA",
+      "DLTR",
+      "INCY",
+      "DOCU",
+      "FISV",
+      "AMD",
+      "MAR",
+      "NTES",
+      "JD"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--5.25": {
+    "returns": 125.5,
+    "syms": [
+      "MRNA",
+      "QCOM",
+      "DOCU",
+      "MAR",
+      "AMD",
+      "NTES",
+      "DLTR",
+      "CDW",
+      "MU",
+      "FISV"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--3.0": {
+    "returns": 125.0,
+    "syms": [
+      "QCOM",
+      "PDD",
+      "INCY",
+      "MU",
+      "CDW",
+      "DLTR",
+      "MRNA",
+      "FISV",
+      "MCHP",
+      "EA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--2.25": {
+    "returns": 119.5,
+    "syms": [
+      "PDD",
+      "QCOM",
+      "MU",
       "INCY",
       "DLTR",
-      "TSLA",
-      "NXPI",
-      "SBUX",
-      "NTES",
+      "CDW",
+      "FISV",
+      "EA",
       "XLNX",
-      "CPRT",
-      "MDLZ",
       "AMD"
     ]
   },
-  "sig_bar_close--sig_bar_range--0.25--9.0": {
-    "returns": 28.0,
+  "sig_bar_close--sig_bar_range--0.75--2.75": {
+    "returns": 119.25,
     "syms": [
+      "QCOM",
+      "PDD",
+      "MU",
       "INCY",
+      "CDW",
       "DLTR",
-      "TSLA",
-      "ADI",
-      "SBUX",
-      "XLNX",
-      "MDLZ",
-      "CPRT",
+      "FISV",
+      "MRNA",
+      "MCHP",
+      "MAR"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--3.0": {
+    "returns": 117.0,
+    "syms": [
+      "QCOM",
+      "MRNA",
+      "DLTR",
+      "CDW",
+      "MU",
+      "INCY",
+      "GILD",
+      "AMD",
+      "MAR",
+      "EA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--2.5": {
+    "returns": 116.5,
+    "syms": [
+      "PDD",
+      "QCOM",
+      "INCY",
+      "MU",
+      "FISV",
+      "CDW",
+      "JD",
+      "DLTR",
+      "CSCO",
+      "XLNX"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--3.25": {
+    "returns": 116.25,
+    "syms": [
+      "QCOM",
+      "MU",
+      "DLTR",
+      "CDW",
+      "INCY",
+      "MRNA",
+      "PDD",
+      "FISV",
+      "AMD",
+      "JD"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--2.0": {
+    "returns": 114.0,
+    "syms": [
+      "PDD",
+      "QCOM",
+      "MU",
+      "DLTR",
+      "INCY",
+      "FISV",
+      "CDW",
+      "EA",
+      "JD",
+      "MCHP"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--2.5": {
+    "returns": 112.0,
+    "syms": [
+      "QCOM",
+      "MRNA",
+      "DLTR",
+      "GILD",
+      "AEP",
+      "MAR",
+      "CDW",
+      "MU",
+      "ATVI",
+      "INCY"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--6.0": {
+    "returns": 111.0,
+    "syms": [
+      "MRNA",
+      "QCOM",
+      "FISV",
+      "JD",
+      "CDW",
+      "EA",
+      "INTC",
+      "MU",
+      "AMAT",
+      "MAR"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--2.0": {
+    "returns": 111.0,
+    "syms": [
+      "QCOM",
+      "PDD",
+      "DLTR",
+      "MRNA",
+      "INCY",
+      "ATVI",
+      "CDW",
+      "MU",
+      "AEP",
+      "MAR"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--2.75": {
+    "returns": 109.75,
+    "syms": [
+      "QCOM",
+      "DLTR",
+      "MRNA",
+      "CDW",
+      "MU",
+      "MAR",
+      "INCY",
+      "GILD",
+      "AEP",
+      "EA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--5.75": {
+    "returns": 109.75,
+    "syms": [
+      "MRNA",
+      "QCOM",
+      "FISV",
+      "MAR",
+      "CDW",
+      "JD",
+      "MU",
+      "EA",
+      "INTC",
+      "AMAT"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--2.25": {
+    "returns": 108.0,
+    "syms": [
+      "QCOM",
+      "DLTR",
+      "MRNA",
+      "AEP",
+      "INCY",
+      "ATVI",
+      "CDW",
+      "PDD",
+      "GILD",
+      "MU"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--1.75": {
+    "returns": 108.0,
+    "syms": [
+      "PDD",
+      "QCOM",
+      "MU",
+      "INCY",
+      "FISV",
+      "DLTR",
       "ROST",
-      "PYPL"
+      "CERN",
+      "MRNA",
+      "MCHP"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--7.25": {
+    "returns": 107.0,
+    "syms": [
+      "QCOM",
+      "FISV",
+      "MRNA",
+      "JD",
+      "MAR",
+      "AMAT",
+      "DLTR",
+      "GILD",
+      "DOCU",
+      "EBAY"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--5.5": {
+    "returns": 104.0,
+    "syms": [
+      "QCOM",
+      "MAR",
+      "DLTR",
+      "DOCU",
+      "AMD",
+      "CDW",
+      "MU",
+      "FISV",
+      "EA",
+      "TSLA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--6.5": {
+    "returns": 103.0,
+    "syms": [
+      "MRNA",
+      "QCOM",
+      "FISV",
+      "JD",
+      "EA",
+      "MU",
+      "MAR",
+      "AMAT",
+      "GILD",
+      "DLTR"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--1.75": {
+    "returns": 102.5,
+    "syms": [
+      "PDD",
+      "QCOM",
+      "DLTR",
+      "MRNA",
+      "INCY",
+      "JD",
+      "CDW",
+      "AEP",
+      "EA",
+      "MU"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--5.5": {
+    "returns": 102.0,
+    "syms": [
+      "MRNA",
+      "QCOM",
+      "FISV",
+      "MAR",
+      "CDW",
+      "JD",
+      "INTC",
+      "EA",
+      "MU",
+      "FAST"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.25--2.0": {
+    "returns": 102.0,
+    "syms": [
+      "DLTR",
+      "INCY",
+      "MU",
+      "QCOM",
+      "MRNA",
+      "ATVI",
+      "MAR",
+      "CDW",
+      "TSLA",
+      "AEP"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--6.75": {
+    "returns": 101.0,
+    "syms": [
+      "MRNA",
+      "QCOM",
+      "FISV",
+      "JD",
+      "MAR",
+      "AMAT",
+      "GILD",
+      "DLTR",
+      "EBAY",
+      "ALXN"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--7.0": {
+    "returns": 100.0,
+    "syms": [
+      "QCOM",
+      "FISV",
+      "MRNA",
+      "JD",
+      "MAR",
+      "AMAT",
+      "DLTR",
+      "GILD",
+      "DOCU",
+      "EBAY"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--7.5": {
+    "returns": 99.0,
+    "syms": [
+      "QCOM",
+      "FISV",
+      "MRNA",
+      "MAR",
+      "AMAT",
+      "DOCU",
+      "EBAY",
+      "JD",
+      "NTES",
+      "TSLA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--7.75": {
+    "returns": 96.75,
+    "syms": [
+      "MRNA",
+      "FISV",
+      "QCOM",
+      "MAR",
+      "AMAT",
+      "DOCU",
+      "EBAY",
+      "JD",
+      "NTES",
+      "CDW"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--5.25": {
+    "returns": 94.0,
+    "syms": [
+      "MRNA",
+      "QCOM",
+      "FISV",
+      "MAR",
+      "CDW",
+      "JD",
+      "INTC",
+      "EA",
+      "MU",
+      "FAST"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--4.0": {
+    "returns": 86.0,
+    "syms": [
+      "MRNA",
+      "MAR",
+      "NTES",
+      "DOCU",
+      "AMD",
+      "CSCO",
+      "CDW",
+      "EBAY",
+      "BIDU",
+      "TSLA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--5.0": {
+    "returns": 86.0,
+    "syms": [
+      "MRNA",
+      "QCOM",
+      "FISV",
+      "MAR",
+      "CDW",
+      "EA",
+      "JD",
+      "INTC",
+      "MU",
+      "FAST"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--4.75": {
+    "returns": 84.25,
+    "syms": [
+      "MRNA",
+      "FISV",
+      "QCOM",
+      "AMAT",
+      "ATVI",
+      "MAR",
+      "CDW",
+      "INTC",
+      "MU",
+      "EA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.5--2.0": {
+    "returns": 74.0,
+    "syms": [
+      "GILD",
+      "MRNA",
+      "INCY",
+      "ATVI",
+      "CDW",
+      "MU",
+      "DLTR",
+      "DOCU",
+      "ROST",
+      "MTCH"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--4.25": {
+    "returns": 69.75,
+    "syms": [
+      "MAR",
+      "MRNA",
+      "CSCO",
+      "CDW",
+      "EBAY",
+      "BIDU",
+      "EA",
+      "TSLA",
+      "CDNS",
+      "DOCU"
     ]
   }
 }

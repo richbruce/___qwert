@@ -31,7 +31,6 @@ def sig_gen(df: pd.DataFrame) -> pd.DataFrame:
     con_e = df.index.time <= dt.time(12, 00)
     con_1 = df["open"] > df["range_limit"]
     con_2 = df["close"] > df["range_limit"]
-    con_2a = df["close"] > df["open"]
 
     con_3 = df["MACDh_12_26_9"] > 0
     con_4 = df["MACD_12_26_9"] < 0
@@ -40,7 +39,7 @@ def sig_gen(df: pd.DataFrame) -> pd.DataFrame:
 
     # ## create signals ##
     df.loc[
-        con_s & con_e & con_1 & con_2 & con_3 & con_4 & con_5 & con_6 & con_2a, "signal"
+        con_s & con_e & con_1 & con_2 & con_3 & con_4 & con_5 & con_6, "signal"
     ] = True
 
     return df
