@@ -1,0 +1,542 @@
+{
+  "sig_bar_close--sig_bar_range--0.75--5.0": {
+    "returns": 134.0,
+    "syms": [
+      "QCOM",
+      "DOCU",
+      "AMD",
+      "MAR",
+      "MRNA",
+      "NTES",
+      "GILD",
+      "ADI",
+      "PCAR",
+      "MXIM"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--4.75": {
+    "returns": 128.75,
+    "syms": [
+      "QCOM",
+      "DOCU",
+      "AMD",
+      "MAR",
+      "MRNA",
+      "GILD",
+      "NTES",
+      "AMAT",
+      "ADI",
+      "DLTR"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--5.25": {
+    "returns": 126.0,
+    "syms": [
+      "DOCU",
+      "QCOM",
+      "AMD",
+      "MAR",
+      "MRNA",
+      "NTES",
+      "ADI",
+      "GILD",
+      "PCAR",
+      "MXIM"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--4.5": {
+    "returns": 123.0,
+    "syms": [
+      "QCOM",
+      "AMD",
+      "DOCU",
+      "MAR",
+      "MRNA",
+      "NTES",
+      "GILD",
+      "AMAT",
+      "ADI",
+      "DLTR"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--4.25": {
+    "returns": 120.25,
+    "syms": [
+      "QCOM",
+      "AMD",
+      "DOCU",
+      "MAR",
+      "DLTR",
+      "INCY",
+      "GILD",
+      "NTES",
+      "MRNA",
+      "AMAT"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--4.0": {
+    "returns": 118.0,
+    "syms": [
+      "QCOM",
+      "AMD",
+      "DOCU",
+      "MRNA",
+      "MAR",
+      "DLTR",
+      "INCY",
+      "GILD",
+      "NTES",
+      "AMAT"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--3.75": {
+    "returns": 114.75,
+    "syms": [
+      "QCOM",
+      "DOCU",
+      "AMD",
+      "MRNA",
+      "MAR",
+      "ATVI",
+      "DLTR",
+      "PCAR",
+      "INCY",
+      "NTES"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--3.75": {
+    "returns": 107.25,
+    "syms": [
+      "AMD",
+      "QCOM",
+      "DOCU",
+      "NTES",
+      "MAR",
+      "CTSH",
+      "MRNA",
+      "CDNS",
+      "ADI",
+      "ATVI"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--5.5": {
+    "returns": 107.0,
+    "syms": [
+      "QCOM",
+      "MAR",
+      "DOCU",
+      "AMD",
+      "MRNA",
+      "ADI",
+      "NTES",
+      "GILD",
+      "CDW",
+      "TSLA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--3.5": {
+    "returns": 106.0,
+    "syms": [
+      "QCOM",
+      "DOCU",
+      "AMD",
+      "MRNA",
+      "GILD",
+      "ATVI",
+      "MAR",
+      "DLTR",
+      "PCAR",
+      "INCY"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--5.75": {
+    "returns": 104.25,
+    "syms": [
+      "QCOM",
+      "MAR",
+      "DOCU",
+      "ADI",
+      "AMD",
+      "GILD",
+      "NTES",
+      "ATVI",
+      "CDW",
+      "TSLA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--3.0": {
+    "returns": 100.0,
+    "syms": [
+      "QCOM",
+      "INCY",
+      "DOCU",
+      "ATVI",
+      "AMD",
+      "PDD",
+      "MRNA",
+      "GILD",
+      "AMAT",
+      "PCAR"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--3.0": {
+    "returns": 98.0,
+    "syms": [
+      "AMD",
+      "QCOM",
+      "ATVI",
+      "DOCU",
+      "MAR",
+      "NTES",
+      "MRNA",
+      "CTSH",
+      "INCY",
+      "CDNS"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--3.25": {
+    "returns": 96.75,
+    "syms": [
+      "QCOM",
+      "DOCU",
+      "AMD",
+      "ATVI",
+      "MRNA",
+      "GILD",
+      "MAR",
+      "DLTR",
+      "PCAR",
+      "INCY"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--2.5": {
+    "returns": 94.0,
+    "syms": [
+      "QCOM",
+      "ATVI",
+      "MRNA",
+      "AMD",
+      "NTES",
+      "DOCU",
+      "FAST",
+      "MAR",
+      "TSLA",
+      "CTSH"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--7.25": {
+    "returns": 93.5,
+    "syms": [
+      "MAR",
+      "QCOM",
+      "GILD",
+      "DOCU",
+      "TSLA",
+      "CDW",
+      "EA",
+      "AMAT",
+      "MRNA",
+      "ADI"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--2.75": {
+    "returns": 90.25,
+    "syms": [
+      "QCOM",
+      "INCY",
+      "DOCU",
+      "MRNA",
+      "ATVI",
+      "AMD",
+      "PDD",
+      "AMAT",
+      "NTES",
+      "GILD"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--7.5": {
+    "returns": 89.5,
+    "syms": [
+      "MAR",
+      "QCOM",
+      "DOCU",
+      "CDW",
+      "TSLA",
+      "EA",
+      "AMAT",
+      "MRNA",
+      "NTES",
+      "ATVI"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--7.0": {
+    "returns": 89.0,
+    "syms": [
+      "MAR",
+      "QCOM",
+      "GILD",
+      "DOCU",
+      "TSLA",
+      "CDW",
+      "EA",
+      "AMAT",
+      "ADI",
+      "MRNA"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--8.0": {
+    "returns": 89.0,
+    "syms": [
+      "MAR",
+      "QCOM",
+      "DOCU",
+      "TSLA",
+      "CDW",
+      "AMAT",
+      "EA",
+      "MRNA",
+      "ATVI",
+      "NTES"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--1.0--2.25": {
+    "returns": 86.75,
+    "syms": [
+      "QCOM",
+      "ATVI",
+      "NTES",
+      "MRNA",
+      "AMD",
+      "INCY",
+      "DOCU",
+      "FAST",
+      "TSLA",
+      "AMAT"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--6.0": {
+    "returns": 86.0,
+    "syms": [
+      "MAR",
+      "QCOM",
+      "MRNA",
+      "GILD",
+      "DOCU",
+      "CDW",
+      "TSLA",
+      "EA",
+      "AMAT",
+      "INCY"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--8.25": {
+    "returns": 85.5,
+    "syms": [
+      "MAR",
+      "QCOM",
+      "DOCU",
+      "CDW",
+      "TSLA",
+      "EA",
+      "ATVI",
+      "GILD",
+      "ADI",
+      "MRVL"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--7.75": {
+    "returns": 85.0,
+    "syms": [
+      "MAR",
+      "QCOM",
+      "DOCU",
+      "TSLA",
+      "CDW",
+      "AMAT",
+      "EA",
+      "MRNA",
+      "ADI",
+      "ATVI"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--6.75": {
+    "returns": 84.75,
+    "syms": [
+      "MAR",
+      "QCOM",
+      "GILD",
+      "DOCU",
+      "TSLA",
+      "CDW",
+      "AMAT",
+      "EA",
+      "ADI",
+      "NTES"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--5.75": {
+    "returns": 81.0,
+    "syms": [
+      "MAR",
+      "QCOM",
+      "MRNA",
+      "GILD",
+      "DOCU",
+      "CDW",
+      "TSLA",
+      "AMAT",
+      "EA",
+      "INCY"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--6.5": {
+    "returns": 80.5,
+    "syms": [
+      "MAR",
+      "QCOM",
+      "GILD",
+      "DOCU",
+      "TSLA",
+      "CDW",
+      "EA",
+      "AMAT",
+      "ATVI",
+      "NTES"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--5.5": {
+    "returns": 80.5,
+    "syms": [
+      "MAR",
+      "QCOM",
+      "MRNA",
+      "GILD",
+      "DOCU",
+      "PCAR",
+      "CDW",
+      "TSLA",
+      "EA",
+      "AMAT"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--8.5": {
+    "returns": 79.5,
+    "syms": [
+      "MAR",
+      "QCOM",
+      "TSLA",
+      "CDW",
+      "EA",
+      "ADI",
+      "GILD",
+      "ATVI",
+      "DOCU",
+      "PYPL"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--6.25": {
+    "returns": 77.25,
+    "syms": [
+      "MAR",
+      "QCOM",
+      "GILD",
+      "DOCU",
+      "CDW",
+      "TSLA",
+      "INCY",
+      "EA",
+      "AMAT",
+      "NTES"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--6.0": {
+    "returns": 76.0,
+    "syms": [
+      "DOCU",
+      "ADI",
+      "QCOM",
+      "GILD",
+      "NTES",
+      "MAR",
+      "CDW",
+      "TSLA",
+      "ROST",
+      "DLTR"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.75--2.5": {
+    "returns": 75.0,
+    "syms": [
+      "QCOM",
+      "INCY",
+      "DOCU",
+      "MRNA",
+      "ATVI",
+      "AMD",
+      "CDW",
+      "AMAT",
+      "SWKS",
+      "PDD"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.5--8.75": {
+    "returns": 73.0,
+    "syms": [
+      "MAR",
+      "QCOM",
+      "CDW",
+      "TSLA",
+      "EA",
+      "ATVI",
+      "ADI",
+      "GILD",
+      "DOCU",
+      "PYPL"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.25--8.75": {
+    "returns": 35.75,
+    "syms": [
+      "INCY",
+      "DLTR",
+      "SWKS",
+      "TSLA",
+      "NXPI",
+      "XLNX",
+      "SBUX",
+      "CPRT",
+      "NTES",
+      "ROST"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.25--9.25": {
+    "returns": 29.0,
+    "syms": [
+      "INCY",
+      "DLTR",
+      "TSLA",
+      "NXPI",
+      "SBUX",
+      "NTES",
+      "XLNX",
+      "CPRT",
+      "MDLZ",
+      "AMD"
+    ]
+  },
+  "sig_bar_close--sig_bar_range--0.25--9.0": {
+    "returns": 28.0,
+    "syms": [
+      "INCY",
+      "DLTR",
+      "TSLA",
+      "ADI",
+      "SBUX",
+      "XLNX",
+      "MDLZ",
+      "CPRT",
+      "ROST",
+      "PYPL"
+    ]
+  }
+}
